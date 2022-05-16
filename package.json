@@ -1,10 +1,13 @@
 {
-  "name": "responsive-navbar-react",
+  "name": "respone-navbar-mocskos-react-asd-asd",
   "version": "1.0.0",
   "description": "Made with create-react-library",
   "author": "bdbose",
   "license": "MIT",
-  "repository": "bdbose/responsive-navbar-react",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdbose/responsive-navbar-react.git"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -49,5 +52,12 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/bdbose/responsive-navbar-react/issues"
+  },
+  "homepage": "https://github.com/bdbose/responsive-navbar-react#readme",
+  "directories": {
+    "example": "example"
+  }
 }
